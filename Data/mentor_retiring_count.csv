@@ -1,0 +1,35 @@
+total_elig_emp,title,dept_name,total_retiring_emp
+12,Assistant Engineer,Development,130
+17,Assistant Engineer,Production,94
+1,Assistant Engineer,Quality Management,40
+3,Engineer,Customer Service,64
+110,Engineer,Development,1335
+64,Engineer,Production,1197
+26,Engineer,Quality Management,336
+6,Engineer,Research,62
+12,Senior Engineer,Customer Service,284
+268,Senior Engineer,Development,6834
+233,Senior Engineer,Production,5924
+60,Senior Engineer,Quality Management,1661
+13,Senior Engineer,Research,342
+85,Senior Staff,Customer Service,1895
+9,Senior Staff,Development,152
+61,Senior Staff,Finance,1661
+86,Senior Staff,Human Resources,1701
+104,Senior Staff,Marketing,1925
+6,Senior Staff,Production,208
+71,Senior Staff,Research,1701
+210,Senior Staff,Sales,5025
+25,Staff,Customer Service,328
+2,Staff,Development,34
+13,Staff,Finance,247
+21,Staff,Human Resources,252
+22,Staff,Marketing,274
+1,Staff,Production,31
+21,Staff,Research,264
+62,Staff,Sales,834
+3,Technique Leader,Customer Service,21
+34,Technique Leader,Development,796
+35,Technique Leader,Production,720
+10,Technique Leader,Quality Management,197
+2,Technique Leader,Research,38
